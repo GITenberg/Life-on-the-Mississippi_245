@@ -1,0 +1,64 @@
+_repo: Life-on-the-Mississippi_245
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 245/245-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: "Life on the Mississippi (1883) is a memoir by Mark Twain of his days\
+  \ as a steamboat pilot on the Mississippi River before the American Civil War, and\
+  \ also a travel book, recounting his trip along the Mississippi River from St. Louis\
+  \ to New Orleans many years after the War.\nThe book begins with a brief history\
+  \ of the river as reported by Europeans and Americans, beginning with the Spanish\
+  \ explorer Hernando de Soto in 1542. It continues with anecdotes of Twain's training\
+  \ as a steamboat pilot, as the 'cub' (apprentice) of an experienced pilot, Horace\
+  \ E. Bixby. He describes, with great affection, the science of navigating the ever-changing\
+  \ Mississippi River in a section that was first published in 1876, entitled \"Old\
+  \ Times on the Mississippi\". Although Twain was actually 21 when he began his training,\
+  \ he uses artistic license to make himself seem somewhat younger, referring to himself\
+  \ as a \"fledgling\" and a \"boy\" who \"ran away from home\" to seek his fortune\
+  \ on the river, and playing up his own callowness and naïveté.\nIn the second half,\
+  \ Twain narrates his trip many years later on a steamboat from St. Louis to New\
+  \ Orleans. He describes the competition from railroads, and the new, large cities,\
+  \ and adds his observations on greed, gullibility, tragedy, and bad architecture.\
+  \ He also tells some stories that are most likely tall tales.\nSimultaneously published\
+  \ in 1883 in the United States and Great Britain, the book is the first submitted\
+  \ to a publisher as a typewritten manuscript.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '245'
+  wikidata: Q1131648
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mississippi River -- Description and travel'
+- !lcsh 'Mississippi River Valley -- Social life and customs -- 19th century'
+- !lcsh 'Twain, Mark, 1835-1910 -- Travel -- Mississippi River'
+- !lcc 'PS'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+- !lcsh 'Pilots and pilotage -- Mississippi River'
+- GITenberg
+title: Life on the Mississippi
+url: http://www.gutenberg.org/ebooks/245
+wikipedia:
+- https://fr.wikipedia.org/wiki/La_Vie_sur_le_Mississippi
+- https://en.wikiquote.org/wiki/Life_on_the_Mississippi
+- https://de.wikipedia.org/wiki/Leben_auf_dem_Mississippi
+- https://es.wikipedia.org/wiki/La_vida_en_el_Misisip%C3%AD
+- https://en.wikipedia.org/wiki/Life_on_the_Mississippi
+- https://it.wikipedia.org/wiki/Vita_sul_Mississippi
+- https://la.wikipedia.org/wiki/Life_on_the_Mississippi
